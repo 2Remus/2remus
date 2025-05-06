@@ -32,7 +32,8 @@ Welcome to my GitHub — a collection of tools, systems, experiments, and ideas 
 ![Gradle](https://img.shields.io/badge/Gradle-%23023060.svg?style=flat&logo=gradle&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)  
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=nodedotjs&logoColor=white)  
-![Roblox](https://img.shields.io/badge/Roblox-%23000000.svg?style=flat&logo=roblox&logoColor=white)
+![Roblox](https://img.shields.io/badge/Roblox-%23000000.svg?style=flat&logo=roblox&logoColor=white)  
+![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=flat&logo=vue.js&logoColor=white)
 
 ### 📦 Other  
 ![CSV](https://img.shields.io/badge/CSV-Data-%23E5E5E5.svg?style=flat&logo=read-the-docs&logoColor=black)  
