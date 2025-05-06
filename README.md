@@ -1,20 +1,3 @@
-
-<!--
-**herbydevs/herbydevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 # 👋 Hey, I’m Adafa Ralph
 
 Welcome to my GitHub — a collection of tools, systems, experiments, and ideas I’ve built out of discipline, curiosity, and vision.
@@ -23,10 +6,10 @@ Welcome to my GitHub — a collection of tools, systems, experiments, and ideas 
 
 ## 🧠 About Me
 
-- 🎓 Bachelor’s student in Software Development(In-Progress)  
+- 🎓 Bachelor’s student in Software Development (In-Progress)  
 - 💻 3+ years of self-taught programming  
 - ⚔️ IT Intelligence Personnel by day, creative builder by night  
-- 🧬 Deep thinker into psychology, systems, law, and tech 
+- 🧬 Deep thinker into psychology, systems, law, and tech  
 - 🎮 Gamer. Strategist. Optimizer. (Valorant, Chess)
 
 ---
@@ -61,19 +44,28 @@ Welcome to my GitHub — a collection of tools, systems, experiments, and ideas 
 ## 🔥 Featured Projects
 
 ### [📊 Staff Training Manager](#)  
-Full-stack web app to manage staff training, office rank, and records.
+A full-stack web app to manage staff training, office rank, and records, supporting features like search, record addition, and period switching.
 
 ### [📁 Booking Form System](#)  
-Web-based form that exports to PDF and uploads locally.
+A web-based form that generates and saves PDFs locally, as well as uploads them to a server.
 
 ### [📨 Internal Helpdesk](#)  
-Modern Flask-powered helpdesk for internal ticket tracking.
+A modern, Flask-powered internal helpdesk system for managing tickets and tracking requests.
 
 ### [⚙️ Java Pendulum Simulation](#)  
-Physics-based simulation using object-oriented Java.
+A physics-based simulation of a pendulum in Java, using object-oriented principles.
 
 ### [🚢 Roblox Ship Project](#)  
-Game dev experiment with ship physics on Roblox terrain water.
+An experiment in game development with ship physics implemented on Roblox's terrain water system.
+
+### [💼 Full-Stack Help Desk Application](#)  
+Currently building a full-stack help desk system to streamline internal ticketing and support processes.
+
+### [📊 Finance Tracker App](#)  
+Working on a finance tracker application using Vue.js for tracking personal finances, budget, and goals.
+
+### [📈 Data Visualization Project](#)  
+Creating a data visualization app to present and analyze various datasets, experimenting with charts and graphs for insightful presentations.
 
 ---
 
