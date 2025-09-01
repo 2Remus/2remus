@@ -7,7 +7,7 @@ Welcome to my GitHub — a collection of tools, systems, experiments, and ideas 
 ## 🧠 About Me
 
 - 🎓 Bachelor’s student in Software Development (In-Progress)  
-- 💻 3+ years of self-taught programming  
+- 💻 4+ years of self-taught programming  
 - ⚔️ IT Intelligence Personnel by day, creative builder by night  
 - 🧬 Deep thinker into psychology, systems, law, and tech  
 - 🎮 Gamer. Strategist. Optimizer. (Valorant, Chess)
